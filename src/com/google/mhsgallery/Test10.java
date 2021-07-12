@@ -34,5 +34,8 @@ public class Test10 {
 		System.out.println("Input : "+input);
 		System.out.println("Output : "+output);
 		
+		// Github야 보아라ㅏㅏ
+		// 코드가 추가되었다~
+		
 	}
 }
